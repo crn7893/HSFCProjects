@@ -1,0 +1,7 @@
+C:\Users\crn7893\OneDrive\ArrayProject\ArrayProject\bin\Debug\ArrayProject.exe.config
+C:\Users\crn7893\OneDrive\ArrayProject\ArrayProject\bin\Debug\ArrayProject.exe
+C:\Users\crn7893\OneDrive\ArrayProject\ArrayProject\bin\Debug\ArrayProject.pdb
+C:\Users\crn7893\OneDrive\ArrayProject\ArrayProject\obj\Debug\ArrayProject.csprojAssemblyReference.cache
+C:\Users\crn7893\OneDrive\ArrayProject\ArrayProject\obj\Debug\ArrayProject.csproj.CoreCompileInputs.cache
+C:\Users\crn7893\OneDrive\ArrayProject\ArrayProject\obj\Debug\ArrayProject.exe
+C:\Users\crn7893\OneDrive\ArrayProject\ArrayProject\obj\Debug\ArrayProject.pdb

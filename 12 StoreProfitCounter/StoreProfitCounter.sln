@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreProfitCounter", "StoreProfitCounter\StoreProfitCounter.csproj", "{F056A421-60CB-4103-BD20-FC244D4DF919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F056A421-60CB-4103-BD20-FC244D4DF919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F056A421-60CB-4103-BD20-FC244D4DF919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F056A421-60CB-4103-BD20-FC244D4DF919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F056A421-60CB-4103-BD20-FC244D4DF919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F47A51EF-C631-4B9B-8385-435D9D037C47}
+	EndGlobalSection
+EndGlobal

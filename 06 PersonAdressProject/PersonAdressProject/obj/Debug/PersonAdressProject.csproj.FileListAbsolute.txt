@@ -1,0 +1,7 @@
+C:\Users\crn7893\OneDrive\PersonAdressProject\PersonAdressProject\bin\Debug\PersonAdressProject.exe.config
+C:\Users\crn7893\OneDrive\PersonAdressProject\PersonAdressProject\bin\Debug\PersonAdressProject.exe
+C:\Users\crn7893\OneDrive\PersonAdressProject\PersonAdressProject\bin\Debug\PersonAdressProject.pdb
+C:\Users\crn7893\OneDrive\PersonAdressProject\PersonAdressProject\obj\Debug\PersonAdressProject.csprojAssemblyReference.cache
+C:\Users\crn7893\OneDrive\PersonAdressProject\PersonAdressProject\obj\Debug\PersonAdressProject.csproj.CoreCompileInputs.cache
+C:\Users\crn7893\OneDrive\PersonAdressProject\PersonAdressProject\obj\Debug\PersonAdressProject.exe
+C:\Users\crn7893\OneDrive\PersonAdressProject\PersonAdressProject\obj\Debug\PersonAdressProject.pdb

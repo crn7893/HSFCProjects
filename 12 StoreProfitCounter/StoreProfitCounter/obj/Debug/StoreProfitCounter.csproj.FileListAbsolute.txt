@@ -1,0 +1,7 @@
+C:\Users\crn7893\OneDrive\StoreProfitCounter\StoreProfitCounter\bin\Debug\StoreProfitCounter.exe.config
+C:\Users\crn7893\OneDrive\StoreProfitCounter\StoreProfitCounter\bin\Debug\StoreProfitCounter.exe
+C:\Users\crn7893\OneDrive\StoreProfitCounter\StoreProfitCounter\bin\Debug\StoreProfitCounter.pdb
+C:\Users\crn7893\OneDrive\StoreProfitCounter\StoreProfitCounter\obj\Debug\StoreProfitCounter.csprojAssemblyReference.cache
+C:\Users\crn7893\OneDrive\StoreProfitCounter\StoreProfitCounter\obj\Debug\StoreProfitCounter.csproj.CoreCompileInputs.cache
+C:\Users\crn7893\OneDrive\StoreProfitCounter\StoreProfitCounter\obj\Debug\StoreProfitCounter.exe
+C:\Users\crn7893\OneDrive\StoreProfitCounter\StoreProfitCounter\obj\Debug\StoreProfitCounter.pdb

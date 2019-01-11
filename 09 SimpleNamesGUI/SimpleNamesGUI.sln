@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNamesGUI", "SimpleNamesGUI\SimpleNamesGUI.csproj", "{C655CF8D-0A7A-498F-BDD1-39FFC434BB03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C655CF8D-0A7A-498F-BDD1-39FFC434BB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C655CF8D-0A7A-498F-BDD1-39FFC434BB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C655CF8D-0A7A-498F-BDD1-39FFC434BB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C655CF8D-0A7A-498F-BDD1-39FFC434BB03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72D3E11D-1E40-4A33-8CA0-8ECD4AABC52F}
+	EndGlobalSection
+EndGlobal

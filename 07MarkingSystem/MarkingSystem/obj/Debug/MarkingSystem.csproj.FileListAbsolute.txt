@@ -1,0 +1,7 @@
+C:\Users\crn7893\OneDrive\MarkingSystem\MarkingSystem\bin\Debug\MarkingSystem.exe.config
+C:\Users\crn7893\OneDrive\MarkingSystem\MarkingSystem\bin\Debug\MarkingSystem.exe
+C:\Users\crn7893\OneDrive\MarkingSystem\MarkingSystem\bin\Debug\MarkingSystem.pdb
+C:\Users\crn7893\OneDrive\MarkingSystem\MarkingSystem\obj\Debug\MarkingSystem.csprojAssemblyReference.cache
+C:\Users\crn7893\OneDrive\MarkingSystem\MarkingSystem\obj\Debug\MarkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\crn7893\OneDrive\MarkingSystem\MarkingSystem\obj\Debug\MarkingSystem.exe
+C:\Users\crn7893\OneDrive\MarkingSystem\MarkingSystem\obj\Debug\MarkingSystem.pdb

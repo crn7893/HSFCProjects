@@ -1,0 +1,5 @@
+C:\Users\crn7893\OneDrive\SimpleNamesGUI\SimpleNamesGUI\obj\Debug\SimpleNamesGUI.csprojAssemblyReference.cache
+C:\Users\crn7893\OneDrive\SimpleNamesGUI\SimpleNamesGUI\obj\Debug\SimpleNamesGUI.Form1.resources
+C:\Users\crn7893\OneDrive\SimpleNamesGUI\SimpleNamesGUI\obj\Debug\SimpleNamesGUI.Properties.Resources.resources
+C:\Users\crn7893\OneDrive\SimpleNamesGUI\SimpleNamesGUI\obj\Debug\SimpleNamesGUI.csproj.GenerateResource.cache
+C:\Users\crn7893\OneDrive\SimpleNamesGUI\SimpleNamesGUI\obj\Debug\SimpleNamesGUI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\crn7893\OneDrive\NewOneArmedBanditProject\NewOneArmedBanditProject\bin\Debug\NewOneArmedBanditProject.exe.config
+C:\Users\crn7893\OneDrive\NewOneArmedBanditProject\NewOneArmedBanditProject\bin\Debug\NewOneArmedBanditProject.exe
+C:\Users\crn7893\OneDrive\NewOneArmedBanditProject\NewOneArmedBanditProject\bin\Debug\NewOneArmedBanditProject.pdb
+C:\Users\crn7893\OneDrive\NewOneArmedBanditProject\NewOneArmedBanditProject\obj\Debug\NewOneArmedBanditProject.csprojAssemblyReference.cache
+C:\Users\crn7893\OneDrive\NewOneArmedBanditProject\NewOneArmedBanditProject\obj\Debug\NewOneArmedBanditProject.Form1.resources
+C:\Users\crn7893\OneDrive\NewOneArmedBanditProject\NewOneArmedBanditProject\obj\Debug\NewOneArmedBanditProject.Properties.Resources.resources
+C:\Users\crn7893\OneDrive\NewOneArmedBanditProject\NewOneArmedBanditProject\obj\Debug\NewOneArmedBanditProject.csproj.GenerateResource.cache
+C:\Users\crn7893\OneDrive\NewOneArmedBanditProject\NewOneArmedBanditProject\obj\Debug\NewOneArmedBanditProject.csproj.CoreCompileInputs.cache
+C:\Users\crn7893\OneDrive\NewOneArmedBanditProject\NewOneArmedBanditProject\obj\Debug\NewOneArmedBanditProject.exe
+C:\Users\crn7893\OneDrive\NewOneArmedBanditProject\NewOneArmedBanditProject\obj\Debug\NewOneArmedBanditProject.pdb

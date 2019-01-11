@@ -1,0 +1,7 @@
+C:\Users\crn7893\OneDrive\StackProject\StackProject\obj\Debug\StackProject.csprojAssemblyReference.cache
+C:\Users\crn7893\OneDrive\StackProject\StackProject\obj\Debug\StackProject.csproj.CoreCompileInputs.cache
+C:\Users\crn7893\OneDrive\StackProject\StackProject\bin\Debug\StackProject.exe.config
+C:\Users\crn7893\OneDrive\StackProject\StackProject\bin\Debug\StackProject.exe
+C:\Users\crn7893\OneDrive\StackProject\StackProject\bin\Debug\StackProject.pdb
+C:\Users\crn7893\OneDrive\StackProject\StackProject\obj\Debug\StackProject.exe
+C:\Users\crn7893\OneDrive\StackProject\StackProject\obj\Debug\StackProject.pdb

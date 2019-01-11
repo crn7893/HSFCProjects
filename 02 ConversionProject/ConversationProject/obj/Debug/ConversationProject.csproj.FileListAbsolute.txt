@@ -1,0 +1,7 @@
+C:\Users\crn7893\OneDrive\ConversationProject\ConversationProject\obj\Debug\ConversationProject.csprojAssemblyReference.cache
+C:\Users\crn7893\OneDrive\ConversationProject\ConversationProject\obj\Debug\ConversationProject.csproj.CoreCompileInputs.cache
+C:\Users\crn7893\OneDrive\ConversationProject\ConversationProject\bin\Debug\ConversationProject.exe.config
+C:\Users\crn7893\OneDrive\ConversationProject\ConversationProject\bin\Debug\ConversationProject.exe
+C:\Users\crn7893\OneDrive\ConversationProject\ConversationProject\bin\Debug\ConversationProject.pdb
+C:\Users\crn7893\OneDrive\ConversationProject\ConversationProject\obj\Debug\ConversationProject.exe
+C:\Users\crn7893\OneDrive\ConversationProject\ConversationProject\obj\Debug\ConversationProject.pdb

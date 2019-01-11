@@ -1,0 +1,2 @@
+C:\Users\crn7893\OneDrive\NameListProject\NameListProject\obj\Debug\NameListProject.csprojAssemblyReference.cache
+C:\Users\crn7893\OneDrive\NameListProject\NameListProject\obj\Debug\NameListProject.csproj.CoreCompileInputs.cache
