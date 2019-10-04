@@ -11,6 +11,7 @@ namespace OptimisedBubbleSort
         static void Main(string[] args)
         {
             bool isSwapped = true;
+            int TempArrayVal = 0;
             int[] Array = new int[10]; //Array code found @ ' https://www.c-sharpcorner.com/UploadFile/3d39b4/bubble-sort-in-C-Sharp/ '
             // literally got Jade to help with specifying array length ;-; not good enough, must learn how to initialise arrays
             //https://www.geeksforgeeks.org/c-sharp-arrays/ helps with lots of array stuff
@@ -33,16 +34,21 @@ namespace OptimisedBubbleSort
 
                     }
                 }
-                for (int i = 0; i < Array.Length - 1; i++)
+                for (int i = 0; i < Array.Length ; i++)//this states that "passes" are taking place
                 {
-                    for (int i = 0 + 1; i+1 < Array.Length - 1; i++)
+                    for (int j = i + 1; i+1 < Array.Length - 1; i++)//
                     {
-                        Array[i] =
+                        TempArrayVal = Array[i];
+                        Array[j] = Array[i];
+                        Array[j] = TempArrayVal;
                     }
-                        
+                    
                 }
+                isSwapped = false;
             }
-
+            //Console.WriteLine("" + Array[0]+Array[1]+Array[2]+Array[3]+Array[4]+Array[5]+Array[6]+Array[7]+Array[8]+Array[9]+Array[10]);
+            Console.WriteLine("" + Array[]);
+            Console.ReadLine();
         }
     }
 }
